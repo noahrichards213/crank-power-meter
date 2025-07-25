@@ -3661,6 +3661,26 @@
 		)
 		(uuid "aed2d828-adda-49f6-9a0b-747e810375cf")
 	)
+	(text "Figure out bluetooth low energy, and battery"
+		(exclude_from_sim no)
+		(at 44.196 191.516 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bc8a19aa-6741-40a1-9724-ab0ca03fe5b9")
+	)
+	(text "Can look into an external analog digital converter, apparently the one in the mcu isnt very precise for the strain gauge signals we are reading"
+		(exclude_from_sim no)
+		(at 93.726 188.214 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c0c36688-d5b8-4537-9f20-70d8fb71ea66")
+	)
 	(text "Gyroscope"
 		(exclude_from_sim no)
 		(at 94.488 54.102 0)
